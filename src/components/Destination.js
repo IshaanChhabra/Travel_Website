@@ -21,9 +21,7 @@ const Destination = () => {
       <DestinationData
         className="first-des-reverse"
         heading="Mt. Daguldul, Batangas"
-        text="One of the most iconic view in Luzon, Mt. Taal boasts a volcano
-      inside a lake inside an island. If you fancy a closer look, the hike
-      upto the crater is a mere 45 minutes."
+        text="Nestled in the heart of Batangas, Philippines, the majestic Mt. Daguldul stands as a testament to nature's breathtaking beauty and its ability to captivate the soul. Our vision is to introduce adventurers to the splendor of this hidden gem, offering an experience that transcends the ordinary and fosters a deep connection with the natural world."
         img1={Mountain3}
         img2={Mountain4}
       />
