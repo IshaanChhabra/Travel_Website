@@ -18,12 +18,12 @@ function Trip() {
         <TripData
           image={Trip2}
           heading="Trip to India"
-          text="Indonesia is a country in Southeast Asia and Oceania between the Indian Ocean and the Pacific Ocean."
+          text="India goes beyond just a destination—it's an immersion into a kaleidoscope of cultures, landscapes, and experiences."
         />
         <TripData
           image={Trip3}
           heading="Trip to Canada"
-          text="Indonesia is a country in Southeast Asia and Oceania between the Indian Ocean and the Pacific Ocean."
+          text="We see Canada as a land of contrasts, where towering mountain ranges meet expansive prairies, where ancient forests intertwine with modern cities, and where indigenous traditions coexist with global influences."
         />
       </div>
     </div>
